@@ -1,0 +1,9 @@
+*.class
+=======
+.netbeans*
+*.class
+nbproject
+*.mf
+dist
+build
+*.xml
