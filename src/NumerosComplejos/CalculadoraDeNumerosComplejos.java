@@ -124,9 +124,9 @@ public static void main(String[] a)
  
 
      System.out.println(numero_complejo1+" + "+numero_complejo2+" = "+sumar());
-     System.out.println(numero_complejo1+" + "+numero_complejo2+" = "+restar());
-     System.out.println(numero_complejo1+" + "+numero_complejo2+" = "+multiplicar());
-     System.out.println(numero_complejo1+" + "+numero_complejo2+" = "+dividir());
+     System.out.println(numero_complejo1+" - "+numero_complejo2+" = "+restar());
+     System.out.println(numero_complejo1+" * "+numero_complejo2+" = "+multiplicar());
+     System.out.println(numero_complejo1+" / "+numero_complejo2+" = "+dividir());
  
  }
 }
